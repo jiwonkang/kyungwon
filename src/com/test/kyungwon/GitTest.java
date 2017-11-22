@@ -7,7 +7,9 @@ public class GitTest {
 		System.out.println("UTF-8 설정");
 		
 		KyeongSik ks  = new KyeongSik();
+		Jiwon jw = new Jiwon();
 		
 		ks.ks();
+		jw.jiwon();
 	}
 }
