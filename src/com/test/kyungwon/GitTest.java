@@ -3,6 +3,7 @@ package com.test.kyungwon;
 public class GitTest {
 
 	public static void main(String[] args) {
-		System.out.println("±êÇãºê Å×½ºÆ® ½ÃÀÛ!!");
+		System.out.println("ê¹ƒí—ˆë¸Œ í…ŒìŠ¤íŠ¸");
+		System.out.println("UTF-8 ì„¤ì •");
 	}
 }
